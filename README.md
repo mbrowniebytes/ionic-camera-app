@@ -5,7 +5,7 @@
  Code is lossely based on the tutorial [How to Create a Camera App With Ionic 2](https://code.tutsplus.com/tutorials/how-to-create-a-camera-app-with-ionic-2--cms-28205)  
  The code was updated to work with Ionic 3.
  
- Screenshot of application
+ Screenshot of application  
  ![Screenshot of application](screenshot.jpg)
 
  

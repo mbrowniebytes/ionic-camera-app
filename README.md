@@ -6,7 +6,7 @@
  The code was updated to work with Ionic 3.
  
  Screenshot of application
- ![Screenshot of application](screenshot.png)
+ ![Screenshot of application](screenshot.jpg)
 
  
  
